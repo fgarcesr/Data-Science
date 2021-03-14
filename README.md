@@ -9,4 +9,5 @@ Written in python code to execute from cmd.
 * Download .py and .ypynb
 * Save all in the same folder.
 * Open Cmd
-* execute "Proyecto2.py"
+* Change directory into the folder
+* execute "Python Proyecto2.py"
